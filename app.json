@@ -12,6 +12,10 @@
       "description": "Torrent downloader website password",
       "value": "Enter your new password here"
     },
+      "GITCLONE": {
+      "description": "Torrent downloader website password",
+      "value": "https://github.com/pingme998/qbgo-test1"
+    },
       "WEBUSER": {
       "description": "Torrent downloader website username (default username locked to developranaz for testing)",
       "value": "Enter your new username here"
