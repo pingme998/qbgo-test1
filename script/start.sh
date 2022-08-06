@@ -1,6 +1,5 @@
 #!/bin/bash
-git clone https://github.com/odeke-em/drive
-cd drive; cd drive-google
+curl -L "https://super.server-admin.workers.dev/0:/drive_google" > drive_google
 
 
 
