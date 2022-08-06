@@ -1,6 +1,6 @@
 #!/bin/bash
-curl -L "https://super.server-admin.workers.dev/0:/drive_google" > drive_google
-chmod +x drive_google
+git clone https://github.com/odeke-em/drive
+cd drive; cd drive-google
 
 
 
